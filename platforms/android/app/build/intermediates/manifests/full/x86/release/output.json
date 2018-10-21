@@ -1,0 +1,1 @@
+[{"outputType":{"type":"MERGED_MANIFESTS"},"apkInfo":{"type":"MAIN","splits":[],"versionCode":100014,"versionName":"1.0.1","enabled":true,"outputFile":"app-x86-release.apk","fullName":"x86Release","baseName":"x86-release"},"path":"AndroidManifest.xml","properties":{"packageId":"com.fitchain.miner","split":"","minSdkVersion":"19"}}]

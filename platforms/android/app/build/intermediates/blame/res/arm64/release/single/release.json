@@ -1,0 +1,298 @@
+[
+    {
+        "merged": "F:\\fitminer\\platforms\\android\\app\\build\\intermediates\\res\\merged\\arm64\\release\\drawable-xhdpi_verify_checkmark.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\xwalk_core_library-23.53.589.4.aar\\e757cee97caf23b468f23fe2f4d3d4fe\\res\\drawable-xhdpi\\verify_checkmark.png"
+    },
+    {
+        "merged": "F:\\fitminer\\platforms\\android\\app\\build\\intermediates\\res\\merged\\arm64\\release\\mipmap-mdpi_icon.png.flat",
+        "source": "F:\\fitminer\\platforms\\android\\app\\src\\main\\res\\mipmap-mdpi\\icon.png"
+    },
+    {
+        "merged": "F:\\fitminer\\platforms\\android\\app\\build\\intermediates\\res\\merged\\arm64\\release\\drawable-xxhdpi_ic_warning.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\xwalk_core_library-23.53.589.4.aar\\e757cee97caf23b468f23fe2f4d3d4fe\\res\\drawable-xxhdpi\\ic_warning.png"
+    },
+    {
+        "merged": "F:\\fitminer\\platforms\\android\\app\\build\\intermediates\\res\\merged\\arm64\\release\\layout-v17_color_picker_dialog_title.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\xwalk_core_library-23.53.589.4.aar\\e757cee97caf23b468f23fe2f4d3d4fe\\res\\layout-v17\\color_picker_dialog_title.xml"
+    },
+    {
+        "merged": "F:\\fitminer\\platforms\\android\\app\\build\\intermediates\\res\\merged\\arm64\\release\\drawable-hdpi_ic_warning.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\xwalk_core_library-23.53.589.4.aar\\e757cee97caf23b468f23fe2f4d3d4fe\\res\\drawable-hdpi\\ic_warning.png"
+    },
+    {
+        "merged": "F:\\fitminer\\platforms\\android\\app\\build\\intermediates\\res\\merged\\arm64\\release\\drawable_verify_checkmark.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\xwalk_core_library-23.53.589.4.aar\\e757cee97caf23b468f23fe2f4d3d4fe\\res\\drawable\\verify_checkmark.png"
+    },
+    {
+        "merged": "F:\\fitminer\\platforms\\android\\app\\build\\intermediates\\res\\merged\\arm64\\release\\drawable-xhdpi_dropdown_popup_background_up.9.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\xwalk_core_library-23.53.589.4.aar\\e757cee97caf23b468f23fe2f4d3d4fe\\res\\drawable-xhdpi\\dropdown_popup_background_up.9.png"
+    },
+    {
+        "merged": "F:\\fitminer\\platforms\\android\\app\\build\\intermediates\\res\\merged\\arm64\\release\\drawable-hdpi_color_picker_advanced_select_handle.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\xwalk_core_library-23.53.589.4.aar\\e757cee97caf23b468f23fe2f4d3d4fe\\res\\drawable-hdpi\\color_picker_advanced_select_handle.png"
+    },
+    {
+        "merged": "F:\\fitminer\\platforms\\android\\app\\build\\intermediates\\res\\merged\\arm64\\release\\drawable-port-xhdpi_screen.png.flat",
+        "source": "F:\\fitminer\\platforms\\android\\app\\src\\main\\res\\drawable-port-xhdpi\\screen.png"
+    },
+    {
+        "merged": "F:\\fitminer\\platforms\\android\\app\\build\\intermediates\\res\\merged\\arm64\\release\\drawable-hdpi_bubble_arrow_up.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\xwalk_core_library-23.53.589.4.aar\\e757cee97caf23b468f23fe2f4d3d4fe\\res\\drawable-hdpi\\bubble_arrow_up.png"
+    },
+    {
+        "merged": "F:\\fitminer\\platforms\\android\\app\\build\\intermediates\\res\\merged\\arm64\\release\\drawable-port-ldpi_screen.png.flat",
+        "source": "F:\\fitminer\\platforms\\android\\app\\src\\main\\res\\drawable-port-ldpi\\screen.png"
+    },
+    {
+        "merged": "F:\\fitminer\\platforms\\android\\app\\build\\intermediates\\res\\merged\\arm64\\release\\drawable-xxxhdpi_ic_search.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\xwalk_core_library-23.53.589.4.aar\\e757cee97caf23b468f23fe2f4d3d4fe\\res\\drawable-xxxhdpi\\ic_search.png"
+    },
+    {
+        "merged": "F:\\fitminer\\platforms\\android\\app\\build\\intermediates\\res\\merged\\arm64\\release\\drawable-xxxhdpi_ic_menu_share_holo_light.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\xwalk_core_library-23.53.589.4.aar\\e757cee97caf23b468f23fe2f4d3d4fe\\res\\drawable-xxxhdpi\\ic_menu_share_holo_light.png"
+    },
+    {
+        "merged": "F:\\fitminer\\platforms\\android\\app\\build\\intermediates\\res\\merged\\arm64\\release\\raw_xwalk_100_percent.pak.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\xwalk_core_library-23.53.589.4.aar\\e757cee97caf23b468f23fe2f4d3d4fe\\res\\raw\\xwalk_100_percent.pak"
+    },
+    {
+        "merged": "F:\\fitminer\\platforms\\android\\app\\build\\intermediates\\res\\merged\\arm64\\release\\drawable-xhdpi_ic_search.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\xwalk_core_library-23.53.589.4.aar\\e757cee97caf23b468f23fe2f4d3d4fe\\res\\drawable-xhdpi\\ic_search.png"
+    },
+    {
+        "merged": "F:\\fitminer\\platforms\\android\\app\\build\\intermediates\\res\\merged\\arm64\\release\\layout-v17_color_picker_dialog_content.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\xwalk_core_library-23.53.589.4.aar\\e757cee97caf23b468f23fe2f4d3d4fe\\res\\layout-v17\\color_picker_dialog_content.xml"
+    },
+    {
+        "merged": "F:\\fitminer\\platforms\\android\\app\\build\\intermediates\\res\\merged\\arm64\\release\\drawable_ondemand_overlay.9.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\xwalk_core_library-23.53.589.4.aar\\e757cee97caf23b468f23fe2f4d3d4fe\\res\\drawable\\ondemand_overlay.9.png"
+    },
+    {
+        "merged": "F:\\fitminer\\platforms\\android\\app\\build\\intermediates\\res\\merged\\arm64\\release\\raw_wifidirect_api.js.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\xwalk_core_library-23.53.589.4.aar\\e757cee97caf23b468f23fe2f4d3d4fe\\res\\raw\\wifidirect_api.js"
+    },
+    {
+        "merged": "F:\\fitminer\\platforms\\android\\app\\build\\intermediates\\res\\merged\\arm64\\release\\drawable_autofill_chip_inset.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\xwalk_core_library-23.53.589.4.aar\\e757cee97caf23b468f23fe2f4d3d4fe\\res\\drawable\\autofill_chip_inset.xml"
+    },
+    {
+        "merged": "F:\\fitminer\\platforms\\android\\app\\build\\intermediates\\res\\merged\\arm64\\release\\layout-v17_multi_field_time_picker_dialog.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\xwalk_core_library-23.53.589.4.aar\\e757cee97caf23b468f23fe2f4d3d4fe\\res\\layout-v17\\multi_field_time_picker_dialog.xml"
+    },
+    {
+        "merged": "F:\\fitminer\\platforms\\android\\app\\build\\intermediates\\res\\merged\\arm64\\release\\drawable-hdpi_ondemand_overlay.9.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\xwalk_core_library-23.53.589.4.aar\\e757cee97caf23b468f23fe2f4d3d4fe\\res\\drawable-hdpi\\ondemand_overlay.9.png"
+    },
+    {
+        "merged": "F:\\fitminer\\platforms\\android\\app\\build\\intermediates\\res\\merged\\arm64\\release\\drawable_bubble_arrow_up.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\xwalk_core_library-23.53.589.4.aar\\e757cee97caf23b468f23fe2f4d3d4fe\\res\\drawable\\bubble_arrow_up.png"
+    },
+    {
+        "merged": "F:\\fitminer\\platforms\\android\\app\\build\\intermediates\\res\\merged\\arm64\\release\\drawable_color_picker_advanced_select_handle.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\xwalk_core_library-23.53.589.4.aar\\e757cee97caf23b468f23fe2f4d3d4fe\\res\\drawable\\color_picker_advanced_select_handle.png"
+    },
+    {
+        "merged": "F:\\fitminer\\platforms\\android\\app\\build\\intermediates\\res\\merged\\arm64\\release\\drawable_ic_menu_share_holo_light.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\xwalk_core_library-23.53.589.4.aar\\e757cee97caf23b468f23fe2f4d3d4fe\\res\\drawable\\ic_menu_share_holo_light.png"
+    },
+    {
+        "merged": "F:\\fitminer\\platforms\\android\\app\\build\\intermediates\\res\\merged\\arm64\\release\\drawable-xhdpi_ic_menu_share_holo_light.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\xwalk_core_library-23.53.589.4.aar\\e757cee97caf23b468f23fe2f4d3d4fe\\res\\drawable-xhdpi\\ic_menu_share_holo_light.png"
+    },
+    {
+        "merged": "F:\\fitminer\\platforms\\android\\app\\build\\intermediates\\res\\merged\\arm64\\release\\mipmap-hdpi_icon.png.flat",
+        "source": "F:\\fitminer\\platforms\\android\\app\\src\\main\\res\\mipmap-hdpi\\icon.png"
+    },
+    {
+        "merged": "F:\\fitminer\\platforms\\android\\app\\build\\intermediates\\res\\merged\\arm64\\release\\drawable_bubble.9.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\xwalk_core_library-23.53.589.4.aar\\e757cee97caf23b468f23fe2f4d3d4fe\\res\\drawable\\bubble.9.png"
+    },
+    {
+        "merged": "F:\\fitminer\\platforms\\android\\app\\build\\intermediates\\res\\merged\\arm64\\release\\drawable-xxxhdpi_verify_checkmark.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\xwalk_core_library-23.53.589.4.aar\\e757cee97caf23b468f23fe2f4d3d4fe\\res\\drawable-xxxhdpi\\verify_checkmark.png"
+    },
+    {
+        "merged": "F:\\fitminer\\platforms\\android\\app\\build\\intermediates\\res\\merged\\arm64\\release\\drawable-xxhdpi_ic_search.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\xwalk_core_library-23.53.589.4.aar\\e757cee97caf23b468f23fe2f4d3d4fe\\res\\drawable-xxhdpi\\ic_search.png"
+    },
+    {
+        "merged": "F:\\fitminer\\platforms\\android\\app\\build\\intermediates\\res\\merged\\arm64\\release\\drawable-hdpi_dropdown_popup_background_up.9.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\xwalk_core_library-23.53.589.4.aar\\e757cee97caf23b468f23fe2f4d3d4fe\\res\\drawable-hdpi\\dropdown_popup_background_up.9.png"
+    },
+    {
+        "merged": "F:\\fitminer\\platforms\\android\\app\\build\\intermediates\\res\\merged\\arm64\\release\\drawable-xhdpi_color_picker_advanced_select_handle.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\xwalk_core_library-23.53.589.4.aar\\e757cee97caf23b468f23fe2f4d3d4fe\\res\\drawable-xhdpi\\color_picker_advanced_select_handle.png"
+    },
+    {
+        "merged": "F:\\fitminer\\platforms\\android\\app\\build\\intermediates\\res\\merged\\arm64\\release\\layout-v17_color_picker_advanced_component.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\xwalk_core_library-23.53.589.4.aar\\e757cee97caf23b468f23fe2f4d3d4fe\\res\\layout-v17\\color_picker_advanced_component.xml"
+    },
+    {
+        "merged": "F:\\fitminer\\platforms\\android\\app\\build\\intermediates\\res\\merged\\arm64\\release\\drawable_dropdown_popup_background_up.9.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\xwalk_core_library-23.53.589.4.aar\\e757cee97caf23b468f23fe2f4d3d4fe\\res\\drawable\\dropdown_popup_background_up.9.png"
+    },
+    {
+        "merged": "F:\\fitminer\\platforms\\android\\app\\build\\intermediates\\res\\merged\\arm64\\release\\drawable-port-hdpi_screen.png.flat",
+        "source": "F:\\fitminer\\platforms\\android\\app\\src\\main\\res\\drawable-port-hdpi\\screen.png"
+    },
+    {
+        "merged": "F:\\fitminer\\platforms\\android\\app\\build\\intermediates\\res\\merged\\arm64\\release\\drawable-hdpi_dropdown_popup_background_down.9.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\xwalk_core_library-23.53.589.4.aar\\e757cee97caf23b468f23fe2f4d3d4fe\\res\\drawable-hdpi\\dropdown_popup_background_down.9.png"
+    },
+    {
+        "merged": "F:\\fitminer\\platforms\\android\\app\\build\\intermediates\\res\\merged\\arm64\\release\\drawable_color_button_background.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\xwalk_core_library-23.53.589.4.aar\\e757cee97caf23b468f23fe2f4d3d4fe\\res\\drawable\\color_button_background.xml"
+    },
+    {
+        "merged": "F:\\fitminer\\platforms\\android\\app\\build\\intermediates\\res\\merged\\arm64\\release\\drawable-v21_button_compat.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\xwalk_core_library-23.53.589.4.aar\\e757cee97caf23b468f23fe2f4d3d4fe\\res\\drawable-v21\\button_compat.xml"
+    },
+    {
+        "merged": "F:\\fitminer\\platforms\\android\\app\\build\\intermediates\\res\\merged\\arm64\\release\\drawable-xxxhdpi_ic_warning.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\xwalk_core_library-23.53.589.4.aar\\e757cee97caf23b468f23fe2f4d3d4fe\\res\\drawable-xxxhdpi\\ic_warning.png"
+    },
+    {
+        "merged": "F:\\fitminer\\platforms\\android\\app\\build\\intermediates\\res\\merged\\arm64\\release\\layout-land_date_time_picker_dialog.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\xwalk_core_library-23.53.589.4.aar\\e757cee97caf23b468f23fe2f4d3d4fe\\res\\layout-land\\date_time_picker_dialog.xml"
+    },
+    {
+        "merged": "F:\\fitminer\\platforms\\android\\app\\build\\intermediates\\res\\merged\\arm64\\release\\drawable-xhdpi_bubble_arrow_up.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\xwalk_core_library-23.53.589.4.aar\\e757cee97caf23b468f23fe2f4d3d4fe\\res\\drawable-xhdpi\\bubble_arrow_up.png"
+    },
+    {
+        "merged": "F:\\fitminer\\platforms\\android\\app\\build\\intermediates\\res\\merged\\arm64\\release\\drawable-xhdpi_dropdown_popup_background_down.9.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\xwalk_core_library-23.53.589.4.aar\\e757cee97caf23b468f23fe2f4d3d4fe\\res\\drawable-xhdpi\\dropdown_popup_background_down.9.png"
+    },
+    {
+        "merged": "F:\\fitminer\\platforms\\android\\app\\build\\intermediates\\res\\merged\\arm64\\release\\drawable_ic_search.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\xwalk_core_library-23.53.589.4.aar\\e757cee97caf23b468f23fe2f4d3d4fe\\res\\drawable\\ic_search.png"
+    },
+    {
+        "merged": "F:\\fitminer\\platforms\\android\\app\\build\\intermediates\\res\\merged\\arm64\\release\\raw_xwalk.pak.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\xwalk_core_library-23.53.589.4.aar\\e757cee97caf23b468f23fe2f4d3d4fe\\res\\raw\\xwalk.pak"
+    },
+    {
+        "merged": "F:\\fitminer\\platforms\\android\\app\\build\\intermediates\\res\\merged\\arm64\\release\\layout-v17_date_time_suggestion.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\xwalk_core_library-23.53.589.4.aar\\e757cee97caf23b468f23fe2f4d3d4fe\\res\\layout-v17\\date_time_suggestion.xml"
+    },
+    {
+        "merged": "F:\\fitminer\\platforms\\android\\app\\build\\intermediates\\res\\merged\\arm64\\release\\drawable_dropdown_popup_background.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\xwalk_core_library-23.53.589.4.aar\\e757cee97caf23b468f23fe2f4d3d4fe\\res\\drawable\\dropdown_popup_background.xml"
+    },
+    {
+        "merged": "F:\\fitminer\\platforms\\android\\app\\build\\intermediates\\res\\merged\\arm64\\release\\drawable-hdpi_bubble.9.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\xwalk_core_library-23.53.589.4.aar\\e757cee97caf23b468f23fe2f4d3d4fe\\res\\drawable-hdpi\\bubble.9.png"
+    },
+    {
+        "merged": "F:\\fitminer\\platforms\\android\\app\\build\\intermediates\\res\\merged\\arm64\\release\\drawable-xhdpi_ondemand_overlay.9.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\xwalk_core_library-23.53.589.4.aar\\e757cee97caf23b468f23fe2f4d3d4fe\\res\\drawable-xhdpi\\ondemand_overlay.9.png"
+    },
+    {
+        "merged": "F:\\fitminer\\platforms\\android\\app\\build\\intermediates\\res\\merged\\arm64\\release\\drawable-v21_button_borderless_compat.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\xwalk_core_library-23.53.589.4.aar\\e757cee97caf23b468f23fe2f4d3d4fe\\res\\drawable-v21\\button_borderless_compat.xml"
+    },
+    {
+        "merged": "F:\\fitminer\\platforms\\android\\app\\build\\intermediates\\res\\merged\\arm64\\release\\drawable-xxhdpi_ic_menu_share_holo_light.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\xwalk_core_library-23.53.589.4.aar\\e757cee97caf23b468f23fe2f4d3d4fe\\res\\drawable-xxhdpi\\ic_menu_share_holo_light.png"
+    },
+    {
+        "merged": "F:\\fitminer\\platforms\\android\\app\\build\\intermediates\\res\\merged\\arm64\\release\\raw_launch_screen_api.js.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\xwalk_core_library-23.53.589.4.aar\\e757cee97caf23b468f23fe2f4d3d4fe\\res\\raw\\launch_screen_api.js"
+    },
+    {
+        "merged": "F:\\fitminer\\platforms\\android\\app\\build\\intermediates\\res\\merged\\arm64\\release\\drawable_color_picker_border.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\xwalk_core_library-23.53.589.4.aar\\e757cee97caf23b468f23fe2f4d3d4fe\\res\\drawable\\color_picker_border.xml"
+    },
+    {
+        "merged": "F:\\fitminer\\platforms\\android\\app\\build\\intermediates\\res\\merged\\arm64\\release\\drawable-xhdpi_bubble.9.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\xwalk_core_library-23.53.589.4.aar\\e757cee97caf23b468f23fe2f4d3d4fe\\res\\drawable-xhdpi\\bubble.9.png"
+    },
+    {
+        "merged": "F:\\fitminer\\platforms\\android\\app\\build\\intermediates\\res\\merged\\arm64\\release\\raw_empty.wav.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\xwalk_core_library-23.53.589.4.aar\\e757cee97caf23b468f23fe2f4d3d4fe\\res\\raw\\empty.wav"
+    },
+    {
+        "merged": "F:\\fitminer\\platforms\\android\\app\\build\\intermediates\\res\\merged\\arm64\\release\\mipmap-ldpi_icon.png.flat",
+        "source": "F:\\fitminer\\platforms\\android\\app\\src\\main\\res\\mipmap-ldpi\\icon.png"
+    },
+    {
+        "merged": "F:\\fitminer\\platforms\\android\\app\\build\\intermediates\\res\\merged\\arm64\\release\\drawable_dropdown_label_color.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\xwalk_core_library-23.53.589.4.aar\\e757cee97caf23b468f23fe2f4d3d4fe\\res\\drawable\\dropdown_label_color.xml"
+    },
+    {
+        "merged": "F:\\fitminer\\platforms\\android\\app\\build\\intermediates\\res\\merged\\arm64\\release\\drawable-xhdpi_ic_warning.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\xwalk_core_library-23.53.589.4.aar\\e757cee97caf23b468f23fe2f4d3d4fe\\res\\drawable-xhdpi\\ic_warning.png"
+    },
+    {
+        "merged": "F:\\fitminer\\platforms\\android\\app\\build\\intermediates\\res\\merged\\arm64\\release\\mipmap-xhdpi_icon.png.flat",
+        "source": "F:\\fitminer\\platforms\\android\\app\\src\\main\\res\\mipmap-xhdpi\\icon.png"
+    },
+    {
+        "merged": "F:\\fitminer\\platforms\\android\\app\\build\\intermediates\\res\\merged\\arm64\\release\\menu_select_action_menu.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\xwalk_core_library-23.53.589.4.aar\\e757cee97caf23b468f23fe2f4d3d4fe\\res\\menu\\select_action_menu.xml"
+    },
+    {
+        "merged": "F:\\fitminer\\platforms\\android\\app\\build\\intermediates\\res\\merged\\arm64\\release\\drawable_dropdown_popup_background_down.9.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\xwalk_core_library-23.53.589.4.aar\\e757cee97caf23b468f23fe2f4d3d4fe\\res\\drawable\\dropdown_popup_background_down.9.png"
+    },
+    {
+        "merged": "F:\\fitminer\\platforms\\android\\app\\build\\intermediates\\res\\merged\\arm64\\release\\drawable-hdpi_verify_checkmark.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\xwalk_core_library-23.53.589.4.aar\\e757cee97caf23b468f23fe2f4d3d4fe\\res\\drawable-hdpi\\verify_checkmark.png"
+    },
+    {
+        "merged": "F:\\fitminer\\platforms\\android\\app\\build\\intermediates\\res\\merged\\arm64\\release\\drawable-xxhdpi_verify_checkmark.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\xwalk_core_library-23.53.589.4.aar\\e757cee97caf23b468f23fe2f4d3d4fe\\res\\drawable-xxhdpi\\verify_checkmark.png"
+    },
+    {
+        "merged": "F:\\fitminer\\platforms\\android\\app\\build\\intermediates\\res\\merged\\arm64\\release\\drawable-hdpi_ic_search.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\xwalk_core_library-23.53.589.4.aar\\e757cee97caf23b468f23fe2f4d3d4fe\\res\\drawable-hdpi\\ic_search.png"
+    },
+    {
+        "merged": "F:\\fitminer\\platforms\\android\\app\\build\\intermediates\\res\\merged\\arm64\\release\\layout-v17_two_field_date_picker.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\xwalk_core_library-23.53.589.4.aar\\e757cee97caf23b468f23fe2f4d3d4fe\\res\\layout-v17\\two_field_date_picker.xml"
+    },
+    {
+        "merged": "F:\\fitminer\\platforms\\android\\app\\build\\intermediates\\res\\merged\\arm64\\release\\drawable-port-mdpi_screen.png.flat",
+        "source": "F:\\fitminer\\platforms\\android\\app\\src\\main\\res\\drawable-port-mdpi\\screen.png"
+    },
+    {
+        "merged": "F:\\fitminer\\platforms\\android\\app\\build\\intermediates\\res\\merged\\arm64\\release\\layout-v17_autofill_keyboard_accessory_item.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\xwalk_core_library-23.53.589.4.aar\\e757cee97caf23b468f23fe2f4d3d4fe\\res\\layout-v17\\autofill_keyboard_accessory_item.xml"
+    },
+    {
+        "merged": "F:\\fitminer\\platforms\\android\\app\\build\\intermediates\\res\\merged\\arm64\\release\\layout-v17_dropdown_item.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\xwalk_core_library-23.53.589.4.aar\\e757cee97caf23b468f23fe2f4d3d4fe\\res\\layout-v17\\dropdown_item.xml"
+    },
+    {
+        "merged": "F:\\fitminer\\platforms\\android\\app\\build\\intermediates\\res\\merged\\arm64\\release\\drawable_button_compat_shape.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\xwalk_core_library-23.53.589.4.aar\\e757cee97caf23b468f23fe2f4d3d4fe\\res\\drawable\\button_compat_shape.xml"
+    },
+    {
+        "merged": "F:\\fitminer\\platforms\\android\\app\\build\\intermediates\\res\\merged\\arm64\\release\\xml_config.xml.flat",
+        "source": "F:\\fitminer\\platforms\\android\\app\\src\\main\\res\\xml\\config.xml"
+    },
+    {
+        "merged": "F:\\fitminer\\platforms\\android\\app\\build\\intermediates\\res\\merged\\arm64\\release\\raw_icudtl.dat.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\xwalk_core_library-23.53.589.4.aar\\e757cee97caf23b468f23fe2f4d3d4fe\\res\\raw\\icudtl.dat"
+    },
+    {
+        "merged": "F:\\fitminer\\platforms\\android\\app\\build\\intermediates\\res\\merged\\arm64\\release\\layout-v17_validation_message_bubble.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\xwalk_core_library-23.53.589.4.aar\\e757cee97caf23b468f23fe2f4d3d4fe\\res\\layout-v17\\validation_message_bubble.xml"
+    },
+    {
+        "merged": "F:\\fitminer\\platforms\\android\\app\\build\\intermediates\\res\\merged\\arm64\\release\\drawable-hdpi_ic_menu_share_holo_light.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\xwalk_core_library-23.53.589.4.aar\\e757cee97caf23b468f23fe2f4d3d4fe\\res\\drawable-hdpi\\ic_menu_share_holo_light.png"
+    },
+    {
+        "merged": "F:\\fitminer\\platforms\\android\\app\\build\\intermediates\\res\\merged\\arm64\\release\\layout_autofill_keyboard_accessory_icon.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\xwalk_core_library-23.53.589.4.aar\\e757cee97caf23b468f23fe2f4d3d4fe\\res\\layout\\autofill_keyboard_accessory_icon.xml"
+    },
+    {
+        "merged": "F:\\fitminer\\platforms\\android\\app\\build\\intermediates\\res\\merged\\arm64\\release\\layout_date_time_picker_dialog.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\xwalk_core_library-23.53.589.4.aar\\e757cee97caf23b468f23fe2f4d3d4fe\\res\\layout\\date_time_picker_dialog.xml"
+    },
+    {
+        "merged": "F:\\fitminer\\platforms\\android\\app\\build\\intermediates\\res\\merged\\arm64\\release\\drawable_ic_warning.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\xwalk_core_library-23.53.589.4.aar\\e757cee97caf23b468f23fe2f4d3d4fe\\res\\drawable\\ic_warning.png"
+    }
+]

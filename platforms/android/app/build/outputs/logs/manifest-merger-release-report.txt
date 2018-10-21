@@ -1,0 +1,136 @@
+-- Merging decision tree log ---
+manifest
+ADDED from F:\fitminer\platforms\android\app\src\main\AndroidManifest.xml:2:1-32:12
+INJECTED from F:\fitminer\platforms\android\app\src\main\AndroidManifest.xml:2:1-32:12
+INJECTED from F:\fitminer\platforms\android\app\src\main\AndroidManifest.xml:2:1-32:12
+INJECTED from F:\fitminer\platforms\android\app\src\main\AndroidManifest.xml:2:1-32:12
+MERGED from [:CordovaLib] F:\fitminer\platforms\android\CordovaLib\build\intermediates\manifests\full\release\AndroidManifest.xml:20:1-27:12
+INJECTED from F:\fitminer\platforms\android\app\src\main\AndroidManifest.xml:2:1-32:12
+INJECTED from F:\fitminer\platforms\android\app\src\main\AndroidManifest.xml:2:1-32:12
+INJECTED from F:\fitminer\platforms\android\app\src\main\AndroidManifest.xml:2:1-32:12
+	package
+		ADDED from F:\fitminer\platforms\android\app\src\main\AndroidManifest.xml:2:102-130
+		INJECTED from F:\fitminer\platforms\android\app\src\main\AndroidManifest.xml
+		INJECTED from F:\fitminer\platforms\android\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from F:\fitminer\platforms\android\app\src\main\AndroidManifest.xml:2:74-101
+		INJECTED from F:\fitminer\platforms\android\app\src\main\AndroidManifest.xml
+		INJECTED from F:\fitminer\platforms\android\app\src\main\AndroidManifest.xml
+	android:hardwareAccelerated
+		ADDED from F:\fitminer\platforms\android\app\src\main\AndroidManifest.xml:2:11-45
+	xmlns:android
+		ADDED from F:\fitminer\platforms\android\app\src\main\AndroidManifest.xml:2:131-189
+	android:versionCode
+		ADDED from F:\fitminer\platforms\android\app\src\main\AndroidManifest.xml:2:46-73
+		INJECTED from F:\fitminer\platforms\android\app\src\main\AndroidManifest.xml
+		INJECTED from F:\fitminer\platforms\android\app\src\main\AndroidManifest.xml
+supports-screens
+ADDED from F:\fitminer\platforms\android\app\src\main\AndroidManifest.xml:3:5-191
+	android:largeScreens
+		ADDED from F:\fitminer\platforms\android\app\src\main\AndroidManifest.xml:3:49-76
+	android:smallScreens
+		ADDED from F:\fitminer\platforms\android\app\src\main\AndroidManifest.xml:3:132-159
+	android:normalScreens
+		ADDED from F:\fitminer\platforms\android\app\src\main\AndroidManifest.xml:3:77-105
+	android:xlargeScreens
+		ADDED from F:\fitminer\platforms\android\app\src\main\AndroidManifest.xml:3:160-188
+	android:resizeable
+		ADDED from F:\fitminer\platforms\android\app\src\main\AndroidManifest.xml:3:106-131
+	android:anyDensity
+		ADDED from F:\fitminer\platforms\android\app\src\main\AndroidManifest.xml:3:23-48
+application
+ADDED from F:\fitminer\platforms\android\app\src\main\AndroidManifest.xml:4:5-25:19
+	android:supportsRtl
+		ADDED from F:\fitminer\platforms\android\app\src\main\AndroidManifest.xml:4:114-140
+	android:label
+		ADDED from F:\fitminer\platforms\android\app\src\main\AndroidManifest.xml:4:81-113
+	android:hardwareAccelerated
+		ADDED from F:\fitminer\platforms\android\app\src\main\AndroidManifest.xml:4:18-52
+	android:icon
+		ADDED from F:\fitminer\platforms\android\app\src\main\AndroidManifest.xml:4:53-80
+activity#com.fitchain.miner.MainActivity
+ADDED from F:\fitminer\platforms\android\app\src\main\AndroidManifest.xml:5:9-10:20
+	android:label
+		ADDED from F:\fitminer\platforms\android\app\src\main\AndroidManifest.xml:5:97-134
+	android:launchMode
+		ADDED from F:\fitminer\platforms\android\app\src\main\AndroidManifest.xml:5:135-165
+	android:windowSoftInputMode
+		ADDED from F:\fitminer\platforms\android\app\src\main\AndroidManifest.xml:5:257-299
+	android:configChanges
+		ADDED from F:\fitminer\platforms\android\app\src\main\AndroidManifest.xml:5:19-96
+	android:theme
+		ADDED from F:\fitminer\platforms\android\app\src\main\AndroidManifest.xml:5:194-256
+	android:name
+		ADDED from F:\fitminer\platforms\android\app\src\main\AndroidManifest.xml:5:166-193
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from F:\fitminer\platforms\android\app\src\main\AndroidManifest.xml:6:13-9:29
+	android:label
+		ADDED from F:\fitminer\platforms\android\app\src\main\AndroidManifest.xml:6:28-65
+action#android.intent.action.MAIN
+ADDED from F:\fitminer\platforms\android\app\src\main\AndroidManifest.xml:7:17-69
+	android:name
+		ADDED from F:\fitminer\platforms\android\app\src\main\AndroidManifest.xml:7:25-66
+category#android.intent.category.LAUNCHER
+ADDED from F:\fitminer\platforms\android\app\src\main\AndroidManifest.xml:8:17-77
+	android:name
+		ADDED from F:\fitminer\platforms\android\app\src\main\AndroidManifest.xml:8:27-74
+activity#com.fitchain.miner.wxapi.WXEntryActivity
+ADDED from F:\fitminer\platforms\android\app\src\main\AndroidManifest.xml:11:9-17:20
+	android:label
+		ADDED from F:\fitminer\platforms\android\app\src\main\AndroidManifest.xml:11:43-80
+	android:exported
+		ADDED from F:\fitminer\platforms\android\app\src\main\AndroidManifest.xml:11:19-42
+	android:name
+		ADDED from F:\fitminer\platforms\android\app\src\main\AndroidManifest.xml:11:81-118
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.DEFAULT+data:scheme:wx4d0c0ffedf4a51cc
+ADDED from F:\fitminer\platforms\android\app\src\main\AndroidManifest.xml:12:13-16:29
+action#android.intent.action.VIEW
+ADDED from F:\fitminer\platforms\android\app\src\main\AndroidManifest.xml:13:17-69
+	android:name
+		ADDED from F:\fitminer\platforms\android\app\src\main\AndroidManifest.xml:13:25-66
+category#android.intent.category.DEFAULT
+ADDED from F:\fitminer\platforms\android\app\src\main\AndroidManifest.xml:14:17-76
+	android:name
+		ADDED from F:\fitminer\platforms\android\app\src\main\AndroidManifest.xml:14:27-73
+data
+ADDED from F:\fitminer\platforms\android\app\src\main\AndroidManifest.xml:15:17-61
+	android:scheme
+		ADDED from F:\fitminer\platforms\android\app\src\main\AndroidManifest.xml:15:23-58
+activity#com.fitchain.miner.wxapi.WXPayEntryActivity
+ADDED from F:\fitminer\platforms\android\app\src\main\AndroidManifest.xml:18:9-24:20
+	android:label
+		ADDED from F:\fitminer\platforms\android\app\src\main\AndroidManifest.xml:18:43-80
+	android:launchMode
+		ADDED from F:\fitminer\platforms\android\app\src\main\AndroidManifest.xml:18:81-111
+	android:exported
+		ADDED from F:\fitminer\platforms\android\app\src\main\AndroidManifest.xml:18:19-42
+	android:name
+		ADDED from F:\fitminer\platforms\android\app\src\main\AndroidManifest.xml:18:112-152
+uses-sdk
+ADDED from F:\fitminer\platforms\android\app\src\main\AndroidManifest.xml:26:5-74
+MERGED from [:CordovaLib] F:\fitminer\platforms\android\CordovaLib\build\intermediates\manifests\full\release\AndroidManifest.xml:25:5-44
+MERGED from [:CordovaLib] F:\fitminer\platforms\android\CordovaLib\build\intermediates\manifests\full\release\AndroidManifest.xml:25:5-44
+	android:targetSdkVersion
+		ADDED from F:\fitminer\platforms\android\app\src\main\AndroidManifest.xml:26:42-71
+	android:minSdkVersion
+		ADDED from F:\fitminer\platforms\android\app\src\main\AndroidManifest.xml:26:15-41
+uses-permission#android.permission.INTERNET
+ADDED from F:\fitminer\platforms\android\app\src\main\AndroidManifest.xml:27:5-67
+	android:name
+		ADDED from F:\fitminer\platforms\android\app\src\main\AndroidManifest.xml:27:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from F:\fitminer\platforms\android\app\src\main\AndroidManifest.xml:28:5-79
+	android:name
+		ADDED from F:\fitminer\platforms\android\app\src\main\AndroidManifest.xml:28:22-76
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from F:\fitminer\platforms\android\app\src\main\AndroidManifest.xml:29:5-76
+	android:name
+		ADDED from F:\fitminer\platforms\android\app\src\main\AndroidManifest.xml:29:22-73
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from F:\fitminer\platforms\android\app\src\main\AndroidManifest.xml:30:5-75
+	android:name
+		ADDED from F:\fitminer\platforms\android\app\src\main\AndroidManifest.xml:30:22-72
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from F:\fitminer\platforms\android\app\src\main\AndroidManifest.xml:31:5-81
+	android:name
+		ADDED from F:\fitminer\platforms\android\app\src\main\AndroidManifest.xml:31:22-78

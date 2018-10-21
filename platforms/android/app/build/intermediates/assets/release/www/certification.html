@@ -1,0 +1,88 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>login</title>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+	
+
+<link href="css/bootstrap.css" rel="stylesheet" type="text/css">
+
+<link href="css/weui.css" rel="stylesheet" type="text/css">
+		<link href="css/main.css" rel="stylesheet" type="text/css">
+</head>
+
+<body>
+	<div class="box02"></div>
+	<div class="weui-toptips weui-toptips_warn js_tooltips" style="display: none;">错误提示</div>
+<a href="personal.html"> 
+		
+		<h2 class="tw checkbox-inline nomargin page__title">
+			<i class=" glyphicon glyphicon glyphicon-menu-left "></i>身份验证</h2>
+	</a>
+	<p class="box01"></p>
+<!--form role="from"-->
+  <div id="infoContainer" class="container form-inline  tw">
+    
+		
+		<p><strong>真实姓名</strong></p>
+  <div class="weui-cell ">
+    <input id="name" type="text" class="form-control block" class="" placeholder="请输入真实姓名">
+  </div>
+	  <h1></h1>
+	  		<p class="nomargin"><strong>身份证验证</strong></p>
+	  <div class="weui-cell ">
+    <input id="idcode" type="text" class="form-control block" class="" placeholder="请输入身份证号">
+  </div>
+	  <div class="weui-cell nomargin nopa"></div>
+	  <p class="nomargin text-center text-muted weui-agree">上传身份证正面</p>
+	  <div id="inputContainer" class="row">
+
+<div class="col-xs-4"></div>
+	  <div class="col-xs-4">
+	    <div class="weui-uploader__input-box nomargin" style="width:100%">
+			<center>  
+     <input id="uploaderImg" class="weui-uploader__input" accept="image/*" multiple="" type="file">
+				</center>	  
+        </div>
+	   </div>
+<div class="col-xs-4"></div>
+</div>
+
+	  <p><strong>钱包地址</strong>&nbsp;&nbsp;<a id="nopack" style="color:#aaa">(没有钱包?)</a></p>
+	 
+  <div class="weui-cell ">
+	 
+	 
+    <textarea id="address" class="form-control" rows="2"></textarea>
+  </div>
+	  
+	   <h5 class="text-muted weui-agree">数字资产钱包，支持ERC20开发的钱包地址。请确保钱包地址填写无误，若由于地址填错而造成提现不到账，您需自行承担损。</h5>
+		  
+<div class="box02"><p></p></div>
+ <button id="submit" type="button center" class="btn btn-success  btn-block margint">提交</button>
+ 
+	
+  </div>
+<!--/form-->
+
+<div class="container-fluid"></div>
+<div class="box01"></div>
+
+	<!--底部-->
+	
+		
+				<p class=" text-muted text-center">若有疑问请拨打客服电话:</p>
+<center>
+  <a href="tel://400-123-4567" class="text-center">400-123-4567</a>
+
+            
+</center>
+               
+        
+	<script src="js/jquery-1.11.3.min.js"></script> 
+	<script src="js/bootstrap.js"></script>
+	<script src="fit/fitmain.js"></script>
+	<script>InitFit("certification",["#infoContainer","#name","#idcode","#uploaderImg","#address","#inputContainer","#submit","#nopack"]);</script>
+    </body>
+</html>

@@ -1,0 +1,45 @@
+{
+  "prepare_queue": {
+    "installed": [],
+    "uninstalled": []
+  },
+  "config_munge": {
+    "files": {}
+  },
+  "installed_plugins": {
+    "cordova-plugin-whitelist": {
+      "PACKAGE_NAME": "com.fitchain.miner"
+    },
+    "cordova-pedometer": {
+      "PACKAGE_NAME": "com.fitchain.miner"
+    },
+    "cordova-plugin-wechatv2": {
+      "WECHATAPPID": "wx4d0c0ffedf4a51cc",
+      "PACKAGE_NAME": "com.fitchain.miner"
+    },
+    "cordova-plugin-device": {
+      "PACKAGE_NAME": "com.fitchain.miner"
+    },
+    "cordova-plugin-crosswalk-webview": {
+      "XWALK_VERSION": "23+",
+      "XWALK_LITEVERSION": "xwalk_core_library_canary:17+",
+      "XWALK_COMMANDLINE": "--disable-pull-to-refresh-effect",
+      "XWALK_MODE": "embedded",
+      "XWALK_MULTIPLEAPK": "true",
+      "PACKAGE_NAME": "com.fitchain.miner"
+    },
+    "cordova-plugin-file": {
+      "PACKAGE_NAME": "com.fitchain.miner"
+    },
+    "cordova-plugin-splashscreen": {
+      "PACKAGE_NAME": "com.fitchain.miner"
+    },
+    "cordova-plugin-app-version": {
+      "PACKAGE_NAME": "com.fitchain.miner"
+    },
+    "cordova-plugin-network-information": {
+      "PACKAGE_NAME": "com.fitchain.miner"
+    }
+  },
+  "dependent_plugins": {}
+}

@@ -1,0 +1,4 @@
+#Sun Oct 21 16:58:22 CST 2018
+base.0=F\:\\fitminer\\platforms\\android\\app\\build\\intermediates\\transforms\\dexMerger\\x86_64\\release\\0
+path.0=classes.dex
+renamed.0=classes.dex

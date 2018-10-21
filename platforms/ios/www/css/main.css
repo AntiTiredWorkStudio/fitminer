@@ -1,0 +1,127 @@
+html, body {
+margin:0;
+padding:0;
+height: 100%;
+	weight:100%;
+background:#000000;
+}
+.black{
+background:#000000;
+}
+.box01 {
+	display: block;
+	position: relative;
+	height: 40px;
+/*background: #968282;*/
+}
+
+.box02 {
+	display: block;
+	height: 4%;
+	position: relative;
+}
+.box03 {
+	display: block;
+	position: relative;
+	/*background: #968282;*/
+	height: 5%;
+}
+.boxbottom{
+	display: block;
+	position: relative;
+	height: 46px;
+}
+.bd{
+	background-color:#454545;
+	display: block;
+	padding: 10px;
+	border:1px solid #C09500;
+}
+.yellow{
+	color: #FFBE00
+}
+#yellow-border{
+	border:2px solid #FF9E00;
+}
+#small-character{
+	position: absolute;
+	top: 44%;
+	overflow-y: visible;
+	display: inline-block;	
+}
+#redh1{
+	color: #FF0057;
+	
+}
+.tw{
+	color: aliceblue;
+}
+.appheight{
+	margin: 0px;
+	display: block;
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	box-sizing: border-box;
+	height: 20%;
+}
+.foot{
+	
+	bottom: 0;
+}
+
+.zhong{
+display: flex;
+    justify-content:center;
+    align-items:Center;
+
+}
+.middle {
+    float: none;
+    display: inline-block;
+    vertical-align: middle;
+}
+.center-vertical{
+position: relative;
+top: 50%;
+transform: translateY(20%);
+} 
+
+/*没有边框*/
+.nopa{
+	padding: 0;
+}
+.nomargin{
+	
+	margin: 0;
+}
+
+.margint{
+	margin-top: 12px;
+	margin-bottom: 12px;
+}
+.marginw{
+	margin-left: 12px;
+	margin-right: 12px;
+}
+
+.glyphicon-set{
+	font-size: 300%;
+	color: aliceblue;
+}
+.glyphicon-set-active{
+	font-size: 300%;
+	color:#FF9E00;
+	
+}
+.w100{
+	weight: 100%;
+	width: 100%;
+}
+
+.weui-icon-mini{
+	font-size: 12px;
+}
+
+.page__bd{
+	padding: 0 15px;
+}

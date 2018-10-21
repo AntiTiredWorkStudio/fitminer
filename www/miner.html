@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>logo</title>
+
+        <meta name="format-detection" content="telephone=no">
+        <meta name="msapplication-tap-highlight" content="no">
+    <meta name="viewport" content="width=device-width,user-scalable=no,initial-scale=1, maximum-scale=1, minimum-scale=1">
+	<link href="css/bootstrap.css" rel="stylesheet" type="text/css">
+	
+	<link href="css/style.css" rel="stylesheet" type="text/css">
+	
+	<link href="css/weui.css" rel="stylesheet" type="text/css">
+	
+<link href="css/main.css" rel="stylesheet" type="text/css">
+
+	<style>
+        ::-webkit-scrollbar {
+        display: none;/*隐藏滚轮*/
+        }
+    </style>
+</head>
+<body>
+	<p></p>
+	<a href="javascript:;" id="myMiner" class="weui-btn weui-btn_mini weui-btn_plain-primary ">我的矿机</a>
+	<p><strong><center id="lfit">昨日收益100FIT</center></strong></p>
+	<span class="weui-agree__text "><p class="text-center no-margin">可支配余额</p></span>
+	<h2 class=" no-margin"><strong><center id="tfit">6666FIT</center></strong></h2>
+		<div class="circleChart" id="0"></div>
+
+	<center><p id="dfit">今日当前获得:<strong>9000FIT</strong></p></center>
+    <center><p id="cday" style="color:#dbff00">连续登陆0天</p></center>
+	<div class="weui-agree__text"><p id="timeStamp" class="text-center">数据刷新于2018-08-25 13:06:09</p></div>
+	<div class="box01"></div>
+	<div class="boxbottom"></div>
+	
+	  <div class="weui-tabbar black" style="position:fixed" >
+    <a href="logo.html" class="weui-tabbar__item weui-bar__item--on">
+
+      <div class="weui-tabbar__icon">
+        <i class="glyphicon glyphicon-shopping-cart glyphicon-set" aria-hidden=""></i>
+      </div>
+      <p class="weui-tabbar__label tw"><strong>购买矿机</strong></p>
+    </a>
+    <a class="weui-tabbar__item weui-bar__item_on ">
+      <div class="weui-tabbar__icon">
+        <i class="glyphicon glyphicon-fire glyphicon-set " aria-hidden=""></i>
+      </div>
+      <p class="weui-tabbar__label"><strong>运动挖矿</strong></p>
+    </a>
+    <a href="personal.html" class="weui-tabbar__item" >
+      <div class="weui-tabbar__icon">
+       <i class="glyphicon glyphicon-user glyphicon-set-active" aria-hidden=""></i>
+      </div>
+      <p class="weui-tabbar__label tw"><strong>个人信息</strong></p>
+    </a>
+
+  </div>
+	<script src="js/jquery-1.11.3.min.js"></script>
+    <script src="js/bootstrap.js"></script>
+    <script src="dist/circleChart.min.js"></script>
+
+
+    <script src="fit/fitmain.js"></script>
+    <script>InitFit("miner",["#lfit","#tfit","#dfit","#timeStamp",".circleChart#0",'#myMiner','#cday']);</script>
+
+	
+</body>
+</html>

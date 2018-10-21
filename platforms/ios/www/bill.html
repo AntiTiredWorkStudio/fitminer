@@ -1,0 +1,76 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>logo</title>
+        <meta name="format-detection" content="telephone=no">
+        <meta name="msapplication-tap-highlight" content="no">
+        <!--meta name="viewport" content="user-scalable=no, initial-scale=1, maximum-scale=1, minimum-scale=1, width=device-width">
+	<meta name="viewport" content="width=device-width, initial-scale=1"-->
+
+    <meta name="viewport" content="width=device-width,user-scalable=no,initial-scale=1, maximum-scale=1, minimum-scale=1">
+	
+<link href="css/bootstrap.css" rel="stylesheet" type="text/css">
+
+<link href="css/weui.css" rel="stylesheet" type="text/css">
+	<link href="css/main.css" rel="stylesheet" type="text/css">
+		<link href="css/style.css" rel="stylesheet" type="text/css">
+</head>
+<body>
+		<div class="box02"><p></p></div>
+	<div class="row no-margin no-padding"><a href="list.html">
+<h2 class="tw checkbox-inline nomargin page__title">
+			<i class=" glyphicon glyphicon glyphicon-menu-left "></i>账目详情</h2></a>
+
+	
+</div>
+<div class="box02"></div>
+<div class="weui-form-preview black">
+            <div class="weui-form-preview__hd">
+                <label class="weui-form-preview__label tw"><h4>交易金额</h4></label>
+                <em class="weui-form-preview__value" id="price">-2400.00FIT</em>
+            </div>
+            <div class="weui-form-preview__bd">
+                <div class="weui-form-preview__item">
+                    <label class="weui-form-preview__label">操作</label>
+                    <span class="weui-form-preview__value tw"><strong id="title">提币</strong></span>
+                </div>
+                <div class="weui-form-preview__item">
+                    <label class="weui-form-preview__label">操作时间</label>
+                    <span class="weui-form-preview__value tw" id="timeInfo">2018年9月12日18:20</span>
+                </div>
+                <div class="weui-form-preview__item">
+                    <label class="weui-form-preview__label">账单号</label>
+                    <span class="weui-form-preview__value tw" id="orderID">010054688</span>
+                </div>
+				 <div class="weui-form-preview__item">
+                    <label class="weui-form-preview__label">详细信息</label>
+                    <span class="weui-form-preview__value tw" id="content">提币FIT进入0x00000000000账号</span>
+                </div>
+								 <div class="weui-form-preview__item">
+                    <label class="weui-form-preview__label">状态</label>
+                    <span class="weui-form-preview__value tw" id="state">成功</span>
+                </div>
+            </div>
+            <div class="weui-form-preview__ft" id="btns">
+                <a href="list.html" class="weui-form-preview__btn weui-form-preview__btn_default" href="javascript:">返回</a>
+                <a class="weui-form-preview__btn weui-form-preview__btn_primary" href="tel://010-57271402">联系客服</a>
+            </div>
+        </div>
+
+<!--底部-->
+		<div class="weui-msg__extra-area">
+            <div class="weui-footer">
+                <p class="weui-footer__links">
+                    <a href="http://www.fitchain.pro" class="weui-footer__link">fitchain.pro</a>
+                </p>
+                <p class="weui-footer__text">Copyright © 2017-2018 fitchain</p>
+            </div>
+        </div>
+
+        <script src="js/jquery-1.11.3.min.js"></script>
+        <script src="js/bootstrap.js"></script>
+        <script src="fit/fitmain.js"></script>
+        <script>InitFit("bill",["#price","#title","#timeInfo","#orderID","#content","#state","#btns"]);</script>
+</body>
+</html>

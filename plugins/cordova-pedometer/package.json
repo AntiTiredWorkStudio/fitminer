@@ -1,0 +1,65 @@
+{
+  "_from": "git+https://github.com/emesonsantana/cordova-pedometer.git",
+  "_id": "cordova-pedometer@0.2.0",
+  "_inBundle": false,
+  "_location": "/cordova-pedometer",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "git",
+    "raw": "https://github.com/emesonsantana/cordova-pedometer.git",
+    "rawSpec": "https://github.com/emesonsantana/cordova-pedometer.git",
+    "saveSpec": "git+https://github.com/emesonsantana/cordova-pedometer.git",
+    "fetchSpec": "https://github.com/emesonsantana/cordova-pedometer.git",
+    "gitCommittish": null
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "git+https://github.com/emesonsantana/cordova-pedometer.git#33799ec5fd17114741f86dd084e4084cd2e024a4",
+  "_spec": "https://github.com/emesonsantana/cordova-pedometer.git",
+  "_where": "F:\\fitminer",
+  "author": {
+    "name": "Lee Crossley",
+    "email": "leee@hotmail.co.uk"
+  },
+  "bugs": {
+    "url": "https://github.com/emesonsantana/cordova-pedometer/issues"
+  },
+  "bundleDependencies": false,
+  "cordova": {
+    "id": "cordova-pedometer",
+    "platforms": [
+      "ios",
+      "android"
+    ]
+  },
+  "deprecated": false,
+  "description": "Cordova / PhoneGap Plugin for the Core Motion Pedometer to fetch pedestrian-related data, such as step counts and other information about the distance travelled.",
+  "engines": [
+    {
+      "name": "cordova",
+      "version": ">=3.0.0"
+    }
+  ],
+  "homepage": "https://github.com/emesonsantana/cordova-pedometer#readme",
+  "keywords": [
+    "cordova",
+    "core motion",
+    "pedometer",
+    "accelerometer",
+    "steps",
+    "distance",
+    "pedestrian",
+    "ecosystem:cordova",
+    "cordova-ios",
+    "cordova-android"
+  ],
+  "license": "MIT",
+  "name": "cordova-pedometer",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/emesonsantana/cordova-pedometer.git"
+  },
+  "version": "0.2.0"
+}

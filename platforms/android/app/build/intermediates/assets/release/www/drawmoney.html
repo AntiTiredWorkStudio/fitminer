@@ -1,0 +1,67 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>login</title>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+	
+
+<link href="css/bootstrap.css" rel="stylesheet" type="text/css">
+
+<link href="css/weui.css" rel="stylesheet" type="text/css">
+		<link href="css/main.css" rel="stylesheet" type="text/css">
+</head>
+
+<body ontouchstart="">
+	<div class="weui-toptips weui-toptips_warn js_tooltips" style="display: none;">错误提示</div>
+			<div class="box02"></div>
+<a href="personal.html"> 
+		
+		<h2 class="tw checkbox-inline nomargin page__title">
+			<i class=" glyphicon glyphicon glyphicon-menu-left "></i>提币申请</h2>
+	</a>
+
+  <div id="container" class="container form-inline form-group-lg">
+	  <div class="row no-margin no-padding">
+
+
+    <div class="col-xs-1"></div>
+    <div class="col-xs-10 center ">
+		<div id="idstate"><i class="weui-icon-success weui-icon-mini"><h5 class="weui-cell__bd weui-btn_inline ">身份验证已经通过</h5></i></div>
+		<p style="height:0.5em"></p>
+		<h4 class="tw">当前余额:<strong id="fit">90000</strong>FIT</h4>
+		
+	  <div class="box01"></div>
+		<p class="tw"><strong>请输入提现金额，</strong><strong id="hint">须为100的正整数倍</strong></p>
+		
+      <input id="drawmoneyCount" type="nubmber" class="form-control margint" placeholder="请输入提出FIT数额">
+	  <div class="box02"><h1></h1></div>
+	  <p class="tw"><strong>钱包地址</strong>(默认为身份认证地址)</p>
+		<textarea id="address" class="form-control" rows="2"></textarea>
+      <div class="nopa">
+        <div class="input-group "> <span class="input-group-btn">
+        </span></div>
+      </div>
+    </div>
+  </div>
+		<div class="box02"></div>
+<div class="col-xs-1"></div>
+  <div class="col-xs-10" style="padding:0;margin-top:1em;margin-bottom:1em;">
+    <center>
+      <button id="submit" type="button center" class="btn btn-success btn-lg btn-block margint">提交</button>
+    </center>
+  </div>
+<div class="container-fluid"></div>
+<div class="box01"></div>
+
+	  <p class=" text-muted text-center">若有疑问请拨打客服电话:</p>
+	  <center>
+		  <a href="tel://400-123-4567" class="text-center">400-123-4567</a>
+	  </center>
+  </div>
+	<script src="js/jquery-1.11.3.min.js"></script> 
+<script src="js/bootstrap.js"></script>
+	<script src="fit/fitmain.js"></script>
+	<script>InitFit("drawmoney",['#container','#idstate','#fit','#drawmoneyCount','#address','#submit','#hint']);</script>
+    </body>
+</html>

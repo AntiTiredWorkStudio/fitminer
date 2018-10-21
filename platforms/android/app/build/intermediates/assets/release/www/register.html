@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+
+<html><head>
+
+    <meta charset="utf-8">
+        <meta name="viewport" content="user-scalable=no, initial-scale=1, maximum-scale=1, minimum-scale=1, width=device-width">
+        <!--<link rel="stylesheet" type="text/css" href="css/index.css">-->
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link href="css/bootstrap.css" rel="stylesheet" type="text/css">
+<link href="css/main.css" rel="stylesheet" type="text/css">
+		<link href="css/weui.css" rel="stylesheet" type="text/css">	
+</head>
+    
+    <body>
+<div class="box02"></div>
+	 <a href="index.html"><i class=" glyphicon glyphicon glyphicon-menu-left glyphicon-set"></i></a>
+<center>
+    <img src="img/F_340.png" alt="Placeholder image" width="120" class="img-responsive">
+</center>
+
+
+  <div class="container form-inline form-group-lg">
+    <div class="col-xs-1"></div>
+    <div class="col-xs-10 center ">
+      <input id="teleInput" type="nubmber" class="form-control margint" placeholder="请输入大陆手机号">
+      <div class="nopa">
+        <div class="input-group ">
+          <input id="valInput" type="nubmber" class="form-control " placeholder="请输入验证码">
+          <span class="input-group-btn">
+          <button id="genval" class="btn btn-default btn-lg" type="submit">获取</button>
+          </span></div>
+      </div>
+    </div>
+  </div>
+  <div class="box02"></div>
+  <div class="col-xs-1"></div>
+  <div class="col-xs-10">
+	  	<label for="weuiAgree" class="weui-agree">
+            <input id="weuiAgree" class="weui-agree__checkbox" type="checkbox">
+            <span class="weui-agree__text">
+                阅读并同意<a href="#" id="lawAbout">《相关条款》</a>
+            </span>
+        </label>
+    <center>
+      <button id="regist" type="button center" class="btn btn-info btn-lg btn-block margint">注册</button>
+    </center>
+	
+  </div>
+
+<div class="container-fluid"></div>
+<div class="box01"></div>
+	
+		<p class=" text-muted text-center">若有疑问请拨打客服电话:</p>
+<center>
+  <a href="tel://400-123-4567" class="text-center">400-113-4567</a>
+</center>
+		<!--底部-->
+	<div class="weui-msg__extra-area">
+            <div class="weui-footer">
+                <p class="weui-footer__links">
+                    <a href="javascript:void(0);" class="weui-footer__link">fitchain.pro</a>
+                </p>
+            </div>
+        </div>
+	<script src="js/jquery-1.11.3.min.js"></script> 
+<script src="js/bootstrap.js"></script>
+		<script src="fit/lib/weui.js"></script>
+		<script>
+	$('#lawAbout').click(
+	function(){
+		weui.alert('相关相关条款相关条款相关条款相关条款相关条款相关条款相关条款相关条款相关条款相关条款相关条款相关条款');
+	}
+	)
+		</script>
+
+    <script src="fit/fitmain.js"></script>
+    <script>InitFit("register",["#genval","#teleInput","#regist","#weuiAgree","#valInput"]);</script>
+    </body>
+</html>

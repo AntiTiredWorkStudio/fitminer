@@ -1,0 +1,1 @@
+[{"outputType":{"type":"MERGED_MANIFESTS"},"apkInfo":{"type":"MAIN","splits":[],"versionCode":100012,"versionName":"1.0.1","enabled":true,"outputFile":"app-armv7-release.apk","fullName":"armv7Release","baseName":"armv7-release"},"path":"AndroidManifest.xml","properties":{"packageId":"com.fitchain.miner","split":"","minSdkVersion":"19"}}]

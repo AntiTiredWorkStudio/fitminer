@@ -1,0 +1,141 @@
+<!DOCTYPE html>
+<!--
+    Licensed to the Apache Software Foundation (ASF) under one
+    or more contributor license agreements.  See the NOTICE file
+    distributed with this work for additional information
+    regarding copyright ownership.  The ASF licenses this file
+    to you under the Apache License, Version 2.0 (the
+    "License"); you may not use this file except in compliance
+    with the License.  You may obtain a copy of the License at
+
+    http://www.apache.org/licenses/LICENSE-2.0
+
+    Unless required by applicable law or agreed to in writing,
+    software distributed under the License is distributed on an
+    "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY
+     KIND, either express or implied.  See the License for the
+    specific language governing permissions and limitations
+    under the License.
+-->
+<html>
+    <head>
+        <!--
+        Customize this policy to fit your own app's needs. For more guidance, see:
+            https://github.com/apache/cordova-plugin-whitelist/blob/master/README.md#content-security-policy
+        Some notes:
+            * gap: is required only on iOS (when using UIWebView) and is needed for JS->native communication
+            * https://ssl.gstatic.com is required only on Android and is needed for TalkBack to function properly
+            * Disables use of inline scripts in order to mitigate risk of XSS vulnerabilities. To change this:
+                * Enable inline JS: add 'unsafe-inline' to default-src
+        -->
+        <!--meta http-equiv="Content-Security-Policy" content="default-src 'self' data: gap: https://ssl.gstatic.com 'unsafe-eval'; style-src 'self' 'unsafe-inline'; media-src *; img-src 'self' data: content:;"-->
+		 <meta http-equiv="Content-Security-Policy" content="default-src 'self' data: gap: https://ssl.gstatic.com 'unsafe-eval'; style-src 'self' 'unsafe-inline'; media-src *;script-src * 'unsafe-inline'">
+        <meta name="format-detection" content="telephone=no">
+        <meta name="msapplication-tap-highlight" content="no">
+        <meta name="viewport" content="user-scalable=no, initial-scale=1, maximum-scale=1, minimum-scale=1, width=device-width">
+        <link rel="stylesheet" type="text/css" href="css/index.css">
+        <title>Hello World</title>
+    </head>
+    <body>
+        <div class="app">
+            <h1 id="step">Fit Coin</h1>
+            <div id="deviceready" class="blink">
+                <p class="event listening">Connecting to Device</p>
+                <p class="event received">Device is Ready</p>
+            </div>
+			<div id="auth" style="margin-top:10px;">
+				<p id="authlog" class="event listening">Test Wechat</p>
+			</div>
+        </div>
+		<script src="js/jquery-3.3.1.min.js"></script>
+        <script type="text/javascript" src="cordova.js"></script>
+        <script type="text/javascript" src="../fit/cordovaInitor.js"></script>
+		<script type="text/javascript">
+		var isInit = false;
+		var isInitWeChat = false;
+		var init = function(){
+			//alert('init');
+			try{
+				var onError;
+				var successHandler = function (pedometerData) {
+					// pedometerData.startDate; -> ms since 1970
+					// pedometerData.endDate; -> ms since 1970
+					// pedometerData.numberOfSteps;
+					// pedometerData.distance;
+					// pedometerData.floorsAscended; Only iOS 
+					// pedometerData.floorsDescended; Only iOS
+					$('#step').html(pedometerData.numberOfSteps);
+				};
+				pedometer.startPedometerUpdates(successHandler, onError);
+				
+			}catch(err){
+				$('#step').html(err);
+			}
+			
+			Wechat.isInstalled(function (installed) {
+				$('#authlog').html("Wechat installed: " + (installed ? "Yes" : "No"));
+				isInitWeChat = true;
+			}, function (reason) {
+				$('#authlog').html("Failed: " + reason);
+			});
+			$("#auth").click(
+				function(){
+					window.location.href = "index.html";
+					return;
+					if(isInitWeChat){
+						var scope = "snsapi_userinfo";
+						var state = "_" + (+new Date());
+						try{
+							Wechat.auth(scope, state, function (response) {
+								// you may use response.code to get the access token.
+								$('#authlog').html(JSON.stringify(response));
+							}, function (reason) {
+								$('#authlog').html("Failed: " + reason);
+								}
+							);
+						}catch(err){
+							alert(err);
+						}
+						
+						/*Wechat.share({
+							message: {
+								title: "临桂",
+								description: "临桂地图交互",
+								thumb: "www/img/fitLogo.png",
+								media: {
+									type: Wechat.Type.WEBPAGE,
+									webpageUrl: "http://www.antit.top/LGView"
+								}
+							},
+							scene: Wechat.Scene.SESSION   // share to Timeline
+						}, function () {
+							alert("Success");
+						}, function (reason) {
+							alert("Failed: " + reason);
+						});*/
+					}
+				}
+			);
+			/*try{
+				$("#auth").click(
+					function(){
+						var scope = "snsapi_userinfo",
+						var state = "_" + (+new Date());
+						$('#authlog').html(scope +","+state);
+						Wechat.auth(scope, state, function (response) {
+							// you may use response.code to get the access token.
+							$('#authlog').html(JSON.stringify(response));
+						}, function (reason) {
+							$('#authlog').html("Failed: " + reason);
+							}
+						);
+					}
+				);
+			}catch(err){
+				$('#authlog').html(err);
+			}*/
+			isInit = true;
+		}
+		</script>
+    </body>
+</html>
